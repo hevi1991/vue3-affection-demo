@@ -16,7 +16,7 @@ import ClickScaler from "./components/ClickScaler.vue";
       />
     </click-scaler>
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="Hurry to click icons!" />
     </div>
   </header>
 

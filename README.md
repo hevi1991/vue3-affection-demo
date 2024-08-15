@@ -1,5 +1,7 @@
 # vue3-affection-demo
 
+`./src/components/ClickScaler.vue` is my code.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
